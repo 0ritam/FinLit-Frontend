@@ -1,0 +1,10 @@
+{
+    "root": "frontend",
+    "build": {
+      "commands": [
+        "npm install",
+        "npm run build"
+      ]
+    },
+    "outputDirectory": "dist"
+  }
